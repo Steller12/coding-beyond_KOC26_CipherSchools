@@ -90,7 +90,7 @@ header{
 .sec{
     position: relative;
     padding: 100px;
-    background: #112434;
+    background: #231f20;
 }
 .sec h2{
     font-size: 3em;
@@ -105,7 +105,7 @@ header{
 .sec2{
     position: relative;
     padding: 100px;
-    background: #231f20;
+    background: #112434;
 }
 .sec2 h2{
     font-size: 3em;
@@ -113,6 +113,21 @@ header{
     margin-bottom: 10px;
 }
 .sec2 p{
+    font-size: 1em;
+    color: #fff;
+    font-weight: 300;
+}
+.sec3{
+    position: relative;
+    padding: 100px;
+    background: #231f20;
+}
+.sec3 h2{
+    font-size: 3em;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.sec3 p{
     font-size: 1em;
     color: #fff;
     font-weight: 300;
