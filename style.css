@@ -26,7 +26,6 @@ header{
     font-weight: 700;
     font-size: 2em;
     text-decoration: none;
-
 }
 .navigation{
     display: flex;
@@ -116,35 +115,5 @@ header{
 .sec2 p{
     font-size: 1em;
     color: #fff;
-    font-weight: 300;
-}
-.sec3{
-    position: relative;
-    padding: 100px;
-    background: #112434;
-}
-.sec3 h2{
-    font-size: 3em;
-    color: #fff;
-    margin-bottom: 10px;
-}
-.sec3 p{
-    font-size: 1em;
-    color: #fff;
-    font-weight: 300;
-}
-.sec4{
-    position: relative;
-    padding: 100px;
-    background: #fff;
-}
-.sec4 h2{
-    font-size: 3em;
-    color: #000;
-    margin-bottom: 10px;
-}
-.sec4 p{
-    font-size: 1em;
-    color: #000;
     font-weight: 300;
 }
